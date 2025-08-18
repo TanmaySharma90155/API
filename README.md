@@ -1,1 +1,1 @@
-Pokedev API
+api for a mobile app
